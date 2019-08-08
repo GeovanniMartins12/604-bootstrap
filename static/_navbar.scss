@@ -1,0 +1,10 @@
+#navBar{
+    background-color: black !important;
+    a{
+        color: white;
+        font-weight: 900px;
+        &:hover{
+            text-decoration: underline;
+        }
+    }
+}
